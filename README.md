@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! ⋆.˚🦋༘
 
-<!--
-**anitahashemi/anitahashemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anita, a data science student at SFU & a mathematics tutor. 
+I love messing with the entire lifecylce of data from custom web-scraping to predictive statistical modeling.
 
-Here are some ideas to get you started:
+When I'm not writing code or solving equations, you can find me running ✩👟, reading books 🕮 or experimenting in the kitchen ˚🥣*
+◝(ᵔᗜᵔ)◜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_ _ _ 
+
+## 🛠 My Data Toolkit 
+<a><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R logo" /></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" /></a>
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" /></a>
+<a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" /></a>
+<a><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash logo" /></a>
+
+
