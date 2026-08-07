@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1B4332&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anita+%E2%8B%86.%CB%9A%F0%9F%A6%8B%EF%BC%98;Data+Science+Student+at+SFU;Math+Tutor+%7C+Data+%2B+Equations+Enthusiast" alt="Typing SVG" /> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1B4332&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anita+%E2%8B%86.%CB%9A%F0%9F%A6%8B%EF%BC%98" alt="Typing SVG" /> </h1>
 
 I'm Anita, a data science student at SFU & a mathematics tutor. 
 I love messing with the entire lifecylce of data from custom web-scraping to predictive statistical modeling.
