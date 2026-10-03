@@ -1,10 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1B4332&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anita+%E2%8B%86.%CB%9A%F0%9F%A6%8B%EF%BC%98" alt="Typing SVG" /> </h1>
 
-I'm Anita, a data science student at SFU & a mathematics tutor. 
-I love messing with the entire lifecylce of data from custom web-scraping to predictive statistical modeling.
-
-When I'm not writing code or solving equations, you can find me running ✩👟, reading books 🕮 or experimenting in the kitchen ˚🥣*
-◝(ᵔᗜᵔ)◜
+I'm Anita, a Data Science student at SFU and a math tutor. I love working with data, from collecting and cleaning messy datasets to statistical modeling, machine learning and finding meaningful patterns.
 
 <br>
 _ _ _ 
